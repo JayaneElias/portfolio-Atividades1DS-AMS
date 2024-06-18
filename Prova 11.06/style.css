@@ -1,0 +1,43 @@
+body {
+font-size: Georgia;
+background-color: aliceblue;
+}
+
+table {
+border: 5px inset lightseagreen;
+background-color:azure;
+padding: 10px;
+margin: auto;
+
+}
+h1 {
+color: lightseagreen;
+text-align: center;
+}
+h3 {
+text-align: center;
+color:darkcyan;
+}
+
+p { 
+text-align: center;
+color: lightslategray;
+}
+
+tr {
+
+}
+
+td.estilo {
+text-align: center;
+color: lightseagreen;
+}
+
+td {
+color: black;
+}
+
+
+footer {
+color: black;
+}
